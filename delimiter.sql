@@ -11,4 +11,3 @@ delimiter ;
 select add_two_num(2,4);
 
 delimiter $$
-create function cal_age()
