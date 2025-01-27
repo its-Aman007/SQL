@@ -17,7 +17,6 @@ select * from student;
 
 
 
-
 create database x;
 use x;
 create table emp(
