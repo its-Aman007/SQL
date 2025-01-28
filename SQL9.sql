@@ -11,7 +11,6 @@ HAVING
     count(o.OrderID) >= 1;
 
 
-
 create database college1;
 use college1;
 create table student(
